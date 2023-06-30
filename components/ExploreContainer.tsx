@@ -59,15 +59,4 @@ const ExploreContainer: React.FC<ContainerProps> = () => {
   );
 };
 
-
-/*
-<IonItem key={p.id}>
-              <IonLabel>{p.title}</IonLabel>
-              <IonButton href={p.url} 
-               shape='round'> 
-              DETAILS 
-              </IonButton>                      
-            </IonItem>
-*/
-
 export default ExploreContainer;
